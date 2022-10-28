@@ -6,6 +6,9 @@ My challenge was to create an application called Note Taker that can be used to 
 
 The application’s front end was previously created. I'm tasked to build the back end, connect the two, and then deploy the entire application to Heroku.
 
+### Preview
+[Screenshot](notetakerss.png)
+
 
 ### User Story
 
